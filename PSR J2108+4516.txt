@@ -1,0 +1,19 @@
+PSR J2108+4516
+Total simulation time= 01h 02m 47s
+Number of simulations= 2.322493e+09
+Number of saved systems= 5.000010e+05
+
+Simulation ranges
+M_NS_min, M_NS_max= 1.4, 1.4
+w_min, w_max= 0, 230
+M1_min, M1_max= 1.55, 8
+M2_min, M2_max= 17.5, 23
+ang_min, ang_max= 50.3, 58.3
+p_orb_min, p_orb_max= 190, 320
+
+constraints
+v_sys_min, v_sys_max= -np.inf, np.inf
+misAng_min, misAng_max= -np.inf, np.inf
+e_min, e_max= 0.0873, 0.09269999999999999
+p_orbf_min, p_orbf_max= 260.93, 277.07
+alpha_ej_min, alpha_ej_max= -np.inf, np.inf

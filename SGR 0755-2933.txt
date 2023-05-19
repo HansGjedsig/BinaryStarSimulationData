@@ -1,0 +1,19 @@
+SGR 0755-2933
+Total simulation time= 00h 04m 31s
+Number of simulations= 1.599150e+08
+Number of saved systems= 5.000000e+05
+
+Simulation ranges
+M_NS_min, M_NS_max= 1.44, 1.44
+w_min, w_max= 0, 350
+M1_min, M1_max= 1.55, 5
+M2_min, M2_max= 18, 18
+ang_min, ang_max= 0, 90
+p_orb_min, p_orb_max= 35, 80
+
+constraints
+v_sys_min, v_sys_max= -np.inf, np.inf
+misAng_min, misAng_max= -np.inf, np.inf
+e_min, e_max= 0, 0.12
+p_orbf_min, p_orbf_max= 57.8993, 61.4807
+alpha_ej_min, alpha_ej_max= -np.inf, np.inf
